@@ -1,0 +1,22 @@
+{
+  "name": "adobe-styles",
+  "version": "0.0.0",
+  "homepage": "https://github.com/thomashibbard/adobe-themed-styles",
+  "authors": [
+    "Thomas Hibbard <loren.hibbard@gmail.com>"
+  ],
+  "description": "'boilerplate styles to make adobe extensions visually resemble native adobe panels",
+  "main": "index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "font-awesome": "~4.5.0",
+    "jquery": "~2.1.4"
+  }
+}
