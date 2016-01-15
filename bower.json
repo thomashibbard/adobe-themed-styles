@@ -5,7 +5,7 @@
   "authors": [
     "Thomas Hibbard <loren.hibbard@gmail.com>"
   ],
-  "description": "'boilerplate styles to make adobe extensions visually resemble native adobe panels",
+  "description": "boilerplate styles to make adobe extensions visually resemble native adobe panels",
   "main": "index.html",
   "license": "MIT",
   "ignore": [
